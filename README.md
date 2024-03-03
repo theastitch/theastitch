@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stitch who really want to learn about programming
+- 👋 Hi, I’m @stitch who really want to learn more about programming
 - 👀 I’m interested in those people who can help me to grow 
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
